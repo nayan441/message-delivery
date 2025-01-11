@@ -2,7 +2,7 @@
 
 # Getting Started
 
-First clone the repository from Github and switch to the new directory:
+First clone the repository from Github and switch to the new directory
 
     $ git clone https://github.com/nayan441/message-delivery.git
     $ cd message-delivery
